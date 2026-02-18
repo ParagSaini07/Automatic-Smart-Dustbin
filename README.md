@@ -66,4 +66,19 @@ The Arduino code is available in: code/smart_dustbin.ino
 
 ---
 
+## 👨‍💻 Author
+Parag Saini
 
+## 📄 License
+This project is open-source and free to use for learning purposes.
+
+
+---
+
+If you want, I can also give you the **Arduino code (`smart_dustbin.ino`)** with:  
+✅ better accuracy  
+✅ smooth servo movement  
+✅ stable distance reading  
+✅ 5 seconds delay before closing
+
+---
