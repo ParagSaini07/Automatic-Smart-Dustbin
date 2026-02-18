@@ -54,3 +54,16 @@ This project is a **Smart Dustbin** that automatically opens and closes its lid 
 ## 📂 Code
 The Arduino code is available in: code/smart_dustbin.ino
 
+
+---
+
+## 🚀 How to Run
+1. Open the `.ino` file in Arduino IDE  
+2. Select your board (**Arduino UNO**)  
+3. Select the correct COM port  
+4. Upload the code  
+5. Test by moving your hand near the sensor  
+
+---
+
+
